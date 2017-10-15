@@ -10,10 +10,14 @@
   },
   "author": "Pachito Marco Calabrese <pm.calabrese@gmail.com>",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
   "devDependencies": {
     "babel": "^6.23.0",
     "babel-cli": "^6.26.0",
-    "babel-preset-node8": "^1.2.0"
+    "babel-preset-node8": "^1.2.0",
+    "js-babel": "^6.1.0"
   }
 }

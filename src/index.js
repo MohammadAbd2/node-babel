@@ -1,4 +1,3 @@
-import { hello, helloWorld } from './my_functions';
-
-helloWorld();
-hello("marco");
+import { hello, startapp} from './my_functions';
+hello("Mohammad");
+startapp();
